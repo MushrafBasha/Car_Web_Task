@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry 2024",
+    "price": "₹28,00,000",
+    "image": "https://images.unsplash.com/photo-1624578571415-09e9b1991929?w=600",
+    "brand": "Toyota",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "description": "Premium sedan with excellent comfort, safety, and fuel efficiency."
+  },
+  {
+    "id": 2,
+    "name": "Honda City 2024",
+    "price": "₹15,00,000",
+    "image": "https://images.unsplash.com/photo-1605816988069-b11383b50717?w=600",
+    "brand": "Honda",
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "description": "Stylish sedan with great mileage and modern features."
+  },
+  {
+    "id": 3,
+    "name": "Hyundai Creta 2024",
+    "price": "₹18,00,000",
+    "image": "https://images.unsplash.com/photo-1599575654473-4d9a1b766975?w=600",
+    "brand": "Hyundai",
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "description": "Popular SUV with premium interior and advanced technology."
+  },
+  {
+    "id": 4,
+    "name": "Mercedes-Benz C-Class",
+    "price": "₹59,00,000",
+    "image": "https://images.unsplash.com/photo-1580679568899-be51739ba2df?w=600",
+    "brand": "Mercedes-Benz",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "description": "Luxury sedan offering premium comfort and performance."
+  },
+  {
+    "id": 5,
+    "name": "Audi A4",
+    "price": "₹46,00,000",
+    "image": "https://images.unsplash.com/photo-1627612087981-ca1d6dec6eaa?w=600",
+    "brand": "Audi",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "description": "Elegant luxury sedan with advanced safety features."
+  },
+  {
+    "id": 6,
+    "name": "BMW 3 Series",
+    "price": "₹52,00,000",
+    "image": "https://images.unsplash.com/photo-1607853554439-0069ec0f29b6?w=600",
+    "brand": "BMW",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "description": "Sporty luxury sedan with powerful engine performance."
+  },
+  {
+    "id": 7,
+    "name": "Toyota Innova Crysta",
+    "price": "₹18,50,000",
+    "image": "https://images.unsplash.com/photo-1748215210939-ad8b6c8c086d?w=600",
+    "brand": "Toyota",
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "description": "Reliable MPV ideal for family and long-distance travel."
+  },
+  {
+    "id": 8,
+    "name": "Kia Seltos",
+    "price": "₹14,00,000",
+    "image": "https://images.unsplash.com/photo-1592805723127-004b174a1798?w=600",
+    "brand": "Kia",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "description": "Feature-rich SUV with stylish design and comfort."
+  },
+  {
+    "id": 9,
+    "name": "Ferrari F8 Tributo",
+    "price": "₹4,02,00,000",
+    "image": "https://images.unsplash.com/photo-1542362567-b07e54358753?w=600",
+    "brand": "Ferrari",
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "description": "High-performance supercar with exceptional speed and luxury."
+  }
+]
